@@ -1,9 +1,9 @@
-**AapTube – React Video Streaming App
-**
+**AapTube – React Video Streaming App**
+
 This project was bootstrapped with Create React App.
 
-**Getting Started
-**Prerequisites
+**Getting Started**
+Prerequisites
 
 Make sure you have the following installed:
 
@@ -11,30 +11,30 @@ Node.js v20.11.0
 
 npm v10.2.4
 
-**Installation
-**
+**Installation**
+
 Clone the repository:
 
 git clone <repo-url>
 cd aaptube
 
 
-**Install dependencies:
-**
+**Install dependencies:**
+
 npm install
 
 
-**Start the development server:
-**
+**Start the development server:**
+
 npm start
 
 
-**Runs the app in development mode.
-**Open http://localhost:3000
+**Runs the app in development mode.**
+Open http://localhost:3000
  to view it in the browser.
 
-**Available Scripts
-**▶️ npm start
+**Available Scripts**
+npm start
 
 Runs the app in development mode.
 
@@ -48,8 +48,8 @@ Launches the test runner in interactive watch mode.
 See Running Tests
 
 
-**npm run build
-**
+**npm run build**
+
 Builds the app for production in the build/ folder.
 
 Bundles React in production mode.
